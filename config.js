@@ -3,7 +3,7 @@ const config = {
   accessToken:
     "pk.eyJ1Ijoic29sdmVuaW5qYSIsImEiOiJja2RvbG90N3cxdGY5MnBxMzk4Z2lheDliIn0.Q-eCneFLLyn8dnVTfZ233Q",
   CSV: "https://docs.google.com/spreadsheets/d/1muJOzDeoKQatfp2n9rf37bTt2S5RI1pAvtRhpOv5dkU/gviz/tq?tqx=out:csv&sheet=Sheet1",
-  center: [77.2223,28.5934],
+  center: [75.713890,15.317277],
   zoom: 6,
   title: "Covid Health Facilities",
   description:
