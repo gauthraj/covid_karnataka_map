@@ -9,7 +9,7 @@ const config = {
   description:
     "List of all covid facilties in Karnataka",
   sideBarInfo: ["CVC Name", "Address", "District"],
-  popupInfo: ["CVC Name", "Address"],
+  popupInfo: ["CVC Name"],
   filters: [
     {
       type: "dropdown",
